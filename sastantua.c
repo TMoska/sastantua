@@ -6,11 +6,11 @@
 /*   By: tmoska <marvin@42.fr>                      +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2016/09/03 09:28:47 by tmoska            #+#    #+#             */
-/*   Updated: 2016/09/04 21:43:06 by tmoska           ###   ########.fr       */
+/*   Updated: 2016/09/04 22:23:50 by tmoska           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-void	ft_putchar(char c);
+#include "sastantua.h"
 
 int		base_ln_len(int size, int floor_num)
 {
