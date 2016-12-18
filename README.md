@@ -67,6 +67,14 @@ $ ./sastantua 5
  /*******************************|||||*******************************\
 /********************************|||||********************************\
 ```
+Studying at 42?
+---
+
+You might be interested in checking my other repositories:
+- [libft](https://www.github.com/TMoska/libft)
+- [42_exams](https://github.com/TMoska/42_exams)
+- [get_next_line](https://github.com/TMoska/get_next_line)
+- [fillit](https://github.com/TMoska/fillit)
 
 Contributing
 ---
